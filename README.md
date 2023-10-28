@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pulamacodessilly
+- 👋 Hi, I’m Pulama Pal
 - 🌱 I’m currently learning TensorFlow
 - 💞️ I’m experienced in Python, C, C++, MATLAB, Java, HTML, CSS.
 - 📫 How to reach me: At pulamapal@gmail.com
